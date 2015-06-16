@@ -9,7 +9,7 @@
  * Für Node Module muß eine Definitions Datei geschrieben werden
  * die Dann referenziert wird
  * */
-///<reference path="../typedefs/sync-exec.d.ts" />
+///<reference path="dkmTsTypings/sync-exec.d.ts" />
 
 export interface IExecOutput {
     stdout:string;

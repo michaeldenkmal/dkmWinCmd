@@ -1,0 +1,3 @@
+[submodule "dkmTsTypings"]
+	path = dkmTsTypings
+	url = https://github.com/michaeldenkmal/dkmTsTypings.git

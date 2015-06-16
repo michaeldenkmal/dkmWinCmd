@@ -1,2 +1,8 @@
 node_modules
+.idea/workspace.xml
+bin
+obj
+*.v12.suo
+.ntvs_analysis.dat
+
 
